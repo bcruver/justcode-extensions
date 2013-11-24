@@ -10,7 +10,7 @@ using Telerik.JustCode.CommonLanguageModel;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("JustCode.Cleaning")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2012")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -35,4 +35,4 @@ using Telerik.JustCode.CommonLanguageModel;
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
-[assembly: SupportsCodeModelApiVersion(2)]
+[assembly: SupportsCodeModelApiVersion(3)]
